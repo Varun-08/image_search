@@ -39,10 +39,10 @@ is to the result image.
 
 ### Results:
 - Example 1
-![alt text](https://github.com/Varun-08/image_search/blob/main/result1.png?raw=true)
+![alt text](https://github.com/Varun-08/image_search/blob/main/results/result1.png?raw=true)
 
 - Example 2
-![alt text](https://github.com/Varun-08/image_search/blob/main/result2.png?raw=true)
+![alt text](https://github.com/Varun-08/image_search/blob/main/results/result2.png?raw=true)
 
 
 ### Note:

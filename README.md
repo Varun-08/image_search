@@ -38,10 +38,13 @@ is to the result image.
 1. Open application using url: `http://localhost:5000`.
 
 ### Results:
+
 - Example 1
+
 ![alt text](https://github.com/Varun-08/image_search/blob/main/results/result1.png?raw=true)
 
 - Example 2
+
 ![alt text](https://github.com/Varun-08/image_search/blob/main/results/result2.png?raw=true)
 
 
